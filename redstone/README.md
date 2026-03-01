@@ -1,3 +1,5 @@
 # Redstone
 
-Redstone builds coming soon.
+| Preview                                                                                                        | Build Files                                              |                                                       Schematics                                                        |                              Video                              |
+| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------: |
+| <img src="./autoloading-super-smelter--casual/images/preview.png" alt="Autoloading Super Smelter" width="200"> | [Autoloading Super Smelter](./iron-farm-single--casual/) | ![WorldEdit](https://img.shields.io/badge/.schem-blue)<br />![Litematica](https://img.shields.io/badge/.litematic-teal) | [Watch on YouTube](https://www.youtube.com/watch?v=_u6Ik7KEc2g) |
